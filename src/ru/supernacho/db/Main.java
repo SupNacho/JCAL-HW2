@@ -98,7 +98,7 @@ public class Main {
                 "    cost   INTEGER\n" +
                 ");");
         stmt.executeUpdate("DELETE FROM goods");
-        stmt.execute("UPDATE SQLITE_SEQUENCE SET SEQ=0 WHERE NAME='Students';");
+        stmt.execute("UPDATE SQLITE_SEQUENCE SET SEQ=0 WHERE NAME='goods';");
         pst = connection.prepareStatement("INSERT INTO goods (prodId, title, cost) VALUES (?, ?, ?)");
         connection.setAutoCommit(false);
         for (int i = 1; i <= 10000 ; i++) {
