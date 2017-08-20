@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a78f743-cf12-404e-8adc-fea57fa06925" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/supernacho/db/Main.java" afterPath="$PROJECT_DIR$/src/ru/supernacho/db/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,6 +155,14 @@
       <option name="presentableId" value="Default" />
       <updated>1503154357829</updated>
     </task>
+    <task id="LOCAL-00001" summary="исправлен сброс счетчика">
+      <created>1503247416740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503247416740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -191,6 +198,8 @@
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
+    <MESSAGE value="исправлен сброс счетчика" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправлен сброс счетчика" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
